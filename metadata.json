@@ -1,0 +1,5 @@
+{
+  "name": "Kinetic Deconstruction Engine",
+  "description": "A high-performance 3D React application for the Samsung S25 Ultra featuring a glowing Icosahedron that shatters based on device orientation.",
+  "requestFramePermissions": ["gyroscope", "accelerometer"]
+}
